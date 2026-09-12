@@ -1,5 +1,5 @@
 <div align="center">
 
-![Just a human in the loop](https://cdn.jsdelivr.net/gh/mayur-shastri/mayur-shastri@main/github_profile_glitch.gif)
+![Just a human in the loop](./github_profile_glitch.gif)
 
 </div>
